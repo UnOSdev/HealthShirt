@@ -3,6 +3,7 @@ Projede, gerçek zamanlı olarak kalp atış hızı ve vücut sıcaklığını �
 
 
 Amaç: Kronik hastalar, yaşlılar ve sporcular gibi kullanıcılar için hayati parametrelerin sürekli izlenmesi ve olası risklerin erken tespit edilmesini sağlayacak, giyilebilir bir sağlık monitörü geliştirmek.
+
 Kullanılan Donanım:
 
     -Mikrodenetleyici: Arduino UNO R3
@@ -13,4 +14,5 @@ Kullanılan Donanım:
 
 
 Arduino Yazılımı: Sensör verilerini okuyor, işliyor ve Bluetooth ile iletiyor.
+
 Android Uygulaması: Bluetooth üzerinden gelen verileri gerçek zamanlı olarak görselleştiriyor, grafiklerle sunuyor ve kullanıcıyı bilgilendiriyor.
