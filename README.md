@@ -4,6 +4,7 @@ Projede, gerçek zamanlı olarak kalp atış hızı ve vücut sıcaklığını �
 
 Amaç: Kronik hastalar, yaşlılar ve sporcular gibi kullanıcılar için hayati parametrelerin sürekli izlenmesi ve olası risklerin erken tespit edilmesini sağlayacak, giyilebilir bir sağlık monitörü geliştirmek.
 Kullanılan Donanım:
+
     -Mikrodenetleyici: Arduino UNO R3
     -Kalp Sensörü: MAX30102 (Nabız ve oksijen seviyesi ölçümü)
     -Dokunmatik Sensör: TTP223B (Sistem açma/kapama için)
