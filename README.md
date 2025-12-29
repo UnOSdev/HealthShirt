@@ -1,4 +1,4 @@
-Bu rapor, YTU Gömülü Sistemler Laboratuvarı kapsamında geliştirilen giyilebilir bir sağlık izleme sistemi projesinin final raporudur. 
+Bu YTU Gömülü Sistemler Laboratuvarı kapsamında geliştirilen giyilebilir bir sağlık izleme sistemi projesidir. 
 Projede, gerçek zamanlı olarak kalp atış hızı ve vücut sıcaklığını ölçebilen, bu verileri kablosuz iletişimle mobil uygulamaya aktaran bir sistem tasarlanmış ve uygulanmıştır.
 
 Amaç: Kronik hastalar, yaşlılar ve sporcular gibi kullanıcılar için hayati parametrelerin sürekli izlenmesi ve olası risklerin erken tespit edilmesini sağlayacak, giyilebilir bir sağlık monitörü geliştirmek.
